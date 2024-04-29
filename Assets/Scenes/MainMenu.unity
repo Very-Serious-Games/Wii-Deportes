@@ -1809,6 +1809,7 @@ GameObject:
   - component: {fileID: 1299284704}
   - component: {fileID: 1299284706}
   - component: {fileID: 1299284705}
+  - component: {fileID: 1299284707}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -1944,6 +1945,29 @@ MonoBehaviour:
   shouldShowDir: 0
   shouldShowClips: 0
   audioManagerFile: {fileID: 11400000, guid: aa1186bd4f7104449a1b65bd4bf5ade8, type: 2}
+--- !u!114 &1299284707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1299284703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e64e7803cdd8f2e49ae6b4a90bc3b1ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToStartFrom: 0
+  timeToLoopAt: 0
+  musicTrack: {fileID: 8300000, guid: 979b848f83e3c9e47bf221a555fe07c9, type: 3}
+  mixer: {fileID: 0}
+  shouldLoop: 1
+  playOnAwake: 1
+  volume: 1
+  pitch: 1
+  transitionLength: 1
+  introTransition: 0
+  showSource: 0
 --- !u!1 &1318060945
 GameObject:
   m_ObjectHideFlags: 0
