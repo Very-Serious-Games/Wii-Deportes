@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/BowlingScene.unity
     guid: c62357e13769505419de704e2a0f0716
   - enabled: 1
-    path: Assets/Scenes/PollaScene.unity
+    path: Assets/Scenes/BoxingScene.unity
     guid: 3f1bca7c1f8a3534e89a9f43cd8a0256
   - enabled: 1
     path: Assets/Scenes/TennisScene.unity
