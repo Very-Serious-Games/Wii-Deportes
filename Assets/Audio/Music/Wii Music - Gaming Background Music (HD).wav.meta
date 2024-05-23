@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Audio/Music/Wii Music - Gaming Background Music (HD).wav.meta
 guid: d072992827ad9684fbce78062780d13e
+========
+guid: 5e76a70035911684e981ab0b94246c33
+>>>>>>>> boxing:Assets/Audio/Boxing/wii-sports-boxing-results-music.mp3.meta
 AudioImporter:
   externalObjects: {}
   serializedVersion: 7
