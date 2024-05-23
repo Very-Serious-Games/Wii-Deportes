@@ -4140,6 +4140,12 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1959192314}
   m_SourcePrefab: {fileID: 100100000, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+--- !u!1 &412470328 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1773623360729482, guid: 11aaea5348574644a9eb4f4504fcce3f,
+    type: 3}
+  m_PrefabInstance: {fileID: 412470327}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &426870860
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8960,7 +8966,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 248430035}
-  objectWithScripts: {fileID: 0}
+  objectWithScripts: {fileID: 412470328}
 --- !u!114 &1211029660
 MonoBehaviour:
   m_ObjectHideFlags: 0
