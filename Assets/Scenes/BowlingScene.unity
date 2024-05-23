@@ -16634,7 +16634,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d072992827ad9684fbce78062780d13e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -29993,7 +29993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSounds:
   - name: Basket Ambience
-    clip: {fileID: 8300000, guid: 8cceb294980ea5749a88ddd730c6ff26, type: 3}
+    clip: {fileID: 8300000, guid: d072992827ad9684fbce78062780d13e, type: 3}
   sfxSounds: []
   musicSource: {fileID: 1332086131}
   sfxSource: {fileID: 326819652}
