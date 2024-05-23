@@ -42,3 +42,4 @@ EditorBuildSettings:
     path: Assets/Scenes/TennisScene.unity
     guid: f903236fe36d4184fbd32ac951200ea7
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
