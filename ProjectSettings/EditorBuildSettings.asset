@@ -39,3 +39,4 @@ EditorBuildSettings:
     path: Assets/Scenes/BlockoutTennisScene.unity
     guid: 74255e159b4b3c243abc1089a91a282e
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
